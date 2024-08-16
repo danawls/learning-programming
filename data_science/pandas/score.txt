@@ -1,0 +1,9 @@
+number	Name	School	Height	Korean	English	Math	Science	Social	SW Skill
+1	Cha Chi-soo	Buk San High	197	90	85	100	95	85	Python
+2	Jung Dae-man	Buk San High	184	40	35	50	55	25	Java
+3	Song Tae-seop	Buk San High	168	80	75	70	80	75	Javascript
+4	Seo Tae-woong	Buk San High	187	40	60	70	75	80	
+5	Kang Baek-ho	Buk San High	188	15	20	10	35	10	
+6	Byun Deok-gyu	Neung Nam High	202	80	100	95	85	80	C
+7	Hwang Tae-san	Neung Nam High	188	55	65	45	40	35	PYTHON
+8	Yoon Dae-hyeop	Neung Nam High	190	100	85	90	95	95	C#

@@ -1,0 +1,7 @@
+# ninja log v5
+1	32	1719066670622256208	build.ninja	c4b4e3408e70fd74
+3	212	1717339353443358141	CMakeFiles/initializer_list.dir/main.cpp.o	b30533fba8dda7c8
+3	221	1717339277166547430	CMakeFiles/initializer_list.dir/Person.cpp.o	f5ef64a223da6763
+215	250	1717339370982405811	initializer_list	131c1995b66ba67a
+3	223	1717339277166931136	CMakeFiles/initializer_list.dir/Company.cpp.o	94cb13cdc1c829ba
+3	214	1717339370945621810	CMakeFiles/initializer_list.dir/Developer.cpp.o	fd95b1222cef968b

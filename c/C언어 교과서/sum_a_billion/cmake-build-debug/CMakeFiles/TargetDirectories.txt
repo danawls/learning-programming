@@ -1,0 +1,3 @@
+/Users/danawls/Desktop/learning-programming/c/sum_a_billion/cmake-build-debug/CMakeFiles/sum_a_billion.dir
+/Users/danawls/Desktop/learning-programming/c/sum_a_billion/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/danawls/Desktop/learning-programming/c/sum_a_billion/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+/Users/danawls/Desktop/learning-programming/cpp/video-course/initializer-list/cmake-build-debug/CMakeFiles/initializer_list.dir
+/Users/danawls/Desktop/learning-programming/cpp/video-course/initializer-list/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/danawls/Desktop/learning-programming/cpp/video-course/initializer-list/cmake-build-debug/CMakeFiles/rebuild_cache.dir

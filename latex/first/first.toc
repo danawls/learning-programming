@@ -1,0 +1,25 @@
+\contentsline {chapter}{초록}{i}{}%
+\contentsline {chapter}{Abstract}{ii}{}%
+\contentsline {chapter}{서문}{iv}{}%
+\contentsline {chapter}{사사}{v}{}%
+\contentsline {chapter}{목차}{vi}{}%
+\contentsline {chapter}{표 목차}{vii}{}%
+\contentsline {chapter}{그림 목차}{viii}{}%
+\contentsline {chapter}{기호 설명}{x}{}%
+\contentsline {chapter}{1장. 서론}{1}{}%
+\contentsline {section}{\numberline {1.1}절 제목}{1}{}%
+\contentsline {subsection}{\numberline {1.1.1}항 제목}{2}{}%
+\contentsline {chapter}{2장. 학위논문의 양식}{3}{}%
+\contentsline {section}{\numberline {2.1}학위논문의 순서}{3}{}%
+\contentsline {section}{\numberline {2.2}용지 크기, 여백 및 페이지 설정}{3}{}%
+\contentsline {section}{\numberline {2.3}글꼴}{5}{}%
+\contentsline {section}{\numberline {2.4}그림과 표}{6}{}%
+\contentsline {section}{\numberline {2.5}수식}{6}{}%
+\contentsline {section}{\numberline {2.6}직접인용}{7}{}%
+\contentsline {section}{\numberline {2.7}각주}{9}{}%
+\contentsline {chapter}{3장. 결론}{10}{}%
+\contentsline {chapter}{참고문헌}{11}{}%
+\contentsline {chapter}{부록}{12}{}%
+\contentsline {section}{\numberline {A}부록 첫번째 제목}{12}{}%
+\contentsline {section}{\numberline {B}부록 두번째 제목}{13}{}%
+\contentsline {chapter}{색인}{14}{}%

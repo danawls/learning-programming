@@ -1,0 +1,2 @@
+def call(thing):
+    print(f"your name is {thing.name} and your age is {thing.age} and your job is {thing.job} and your lang is {thing.lang} and your subject is {thing.sub} and your salary is {thing.salary}")

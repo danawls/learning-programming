@@ -1,0 +1,3 @@
+/Users/danawls/Desktop/learning-programming/cpp/video-course/inheritance/cmake-build-debug/CMakeFiles/inheritance.dir
+/Users/danawls/Desktop/learning-programming/cpp/video-course/inheritance/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/danawls/Desktop/learning-programming/cpp/video-course/inheritance/cmake-build-debug/CMakeFiles/rebuild_cache.dir

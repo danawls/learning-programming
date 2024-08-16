@@ -1,0 +1,3 @@
+/Users/danawls/Desktop/learning-programing/Cpp/func_tem/cmake-build-debug/CMakeFiles/func_tem.dir
+/Users/danawls/Desktop/learning-programing/Cpp/func_tem/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/danawls/Desktop/learning-programing/Cpp/func_tem/cmake-build-debug/CMakeFiles/rebuild_cache.dir

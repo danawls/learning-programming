@@ -1,0 +1,3 @@
+/Users/danawls/Desktop/learning-programing/Cpp/p36cpp/name_birth_day/cmake-build-debug/CMakeFiles/name_birth_day.dir
+/Users/danawls/Desktop/learning-programing/Cpp/p36cpp/name_birth_day/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/danawls/Desktop/learning-programing/Cpp/p36cpp/name_birth_day/cmake-build-debug/CMakeFiles/rebuild_cache.dir
